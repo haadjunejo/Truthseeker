@@ -307,6 +307,7 @@ This project is developed as part of an academic AI project. Please refer to the
 ## 👤 Author
 
 **Hassan Ali** — AI Engineer
+**Muhammad Haad** — AI Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-hassanali241-181717?logo=github)](https://github.com/hassanali241)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Ali-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hassan-ali-46a58b28a/)
